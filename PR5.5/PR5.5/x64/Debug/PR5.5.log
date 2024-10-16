@@ -1,0 +1,4 @@
+﻿  PR5.5.cpp
+C:\Users\zemts\source\repos\PR5.5\PR5.5.cpp(14,10): warning C4552: "*": результат выражения не используется
+C:\Users\zemts\source\repos\PR5.5\PR5.5.cpp(20,1): warning C4715: f: значение возвращается не при всех путях выполнения
+  PR5.5.vcxproj -> C:\Users\zemts\source\repos\PR5.5\x64\Debug\PR5.5.exe
